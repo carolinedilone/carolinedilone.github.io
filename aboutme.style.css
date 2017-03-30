@@ -1,0 +1,22 @@
+body {
+
+	color: #4c60e0;
+	font-family: 'Baskerville', arial;
+	font-size: 30px  
+}
+
+#ending {
+	color: #39717f;
+	text-align: center;
+}
+
+#love-header {
+	text-align: left;
+	font-weight: bold;
+	font-size: 40px;
+}
+
+.list-titles {
+	font-weight: normal;
+	font-size: 30px
+}
