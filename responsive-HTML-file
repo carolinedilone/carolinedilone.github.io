@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+  <html>
+    <body>
+      <head>
+        <meta charset="ut-8> 
+        <meta name="viewport content="width=device-width, intial-scale=1.0">
+        <link rel="stylesheet" type="text/css" href="aboutme.style.css"> 
+        <title> Caroline Dilone </title>
+      </head>  
+
+          <h1> About Me</h1>
+          
+            <img src= "Linkedin-Profile.jpg"> 
+          
+            <p> Hi, welcome to my page! My name is Caroline Dilone and I am a student at The New School where 
+            I study Journalism and Design.</p>
+               
+            <h3> I Love..</h3>
+            
+              <ul>Music</ul>
+              <ul>Photography</ul>
+              <ul>Illustrations</ul>
+              <ul>Food</ul>
+              <ul>Travel</ul>
+              
+                <p> Thanks for visiting!</p>
+                
+     </body>
+     
