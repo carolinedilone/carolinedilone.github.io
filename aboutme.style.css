@@ -21,4 +21,16 @@ body {
 	font-size: 30px
 }
 
+@media(min-width: 900px){p{color: purple;}}
 
+@media screen (max-width: 980px) {
+	#pagewrap{
+		width: 94%;
+	}
+	#content{
+		width: 90%;
+	}
+	#sidebar{
+		width: 30%;
+	}
+}
