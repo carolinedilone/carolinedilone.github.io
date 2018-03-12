@@ -1,0 +1,11 @@
+
+.card-container{
+	display: flex;
+	align-items: flex-start;
+	flex-wrap: wrap;
+}
+
+img {
+     height: 400px;
+     width: 400px;
+}
