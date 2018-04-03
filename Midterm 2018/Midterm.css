@@ -1,0 +1,84 @@
+.gray {
+	color:#a4a9b2;
+}
+
+.box{
+	width: 50px;
+   	height: 50px 
+   	background-color: #1a2d4f;
+}
+
+.title{
+	color: navy;
+}
+ .element {
+  animation: pulse 3s infinite;
+}
+
+@keyframes pulse {
+  0% {
+    background-color:#e6ecf7;
+  }
+  100% {
+    background-color:#c0c7d3 ;
+  }
+}
+
+
+.Cover-Photo{
+	-webkit-transition-duration: 3s;
+    -webkit-transition-timing-function: ease;
+    transition-property: width height;
+    transition-duration: 3s;
+    transition-timing-function: ease;
+}
+
+	div:hover {
+  	transform: scale(2);
+}
+}
+
+.Picture1{
+	-webkit-transition-duration: 3s;
+    -webkit-transition-timing-function: ease;
+    transition-property: width height;
+    transition-duration: 3s;
+    transition-timing-function: ease;
+	transition: transform 1s;
+}
+
+div:hover {
+  transform: scale(2);
+}
+
+.Picture2{
+	-webkit-transition-duration: 3s;
+    -webkit-transition-timing-function: ease;
+    transition-property: width height;
+    transition-duration: 3s;
+    transition-timing-function: ease;
+    transition: transform 1s;
+}
+
+div:hover {
+  transform: scale(2);
+}
+}
+
+.Picture3{
+	-webkit-transition-duration: 3s;
+    -webkit-transition-timing-function: ease;
+    transition-property: width height;
+    transition-duration: 3s;
+    transition-timing-function: ease;
+    transition: transform 1s;
+}
+
+div:hover {
+  transform: scale(2);
+}
+}
+
+
+  
+
